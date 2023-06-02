@@ -1,6 +1,6 @@
 <div align= "center">
-  <h1>Hi there, I'm Aman 👋</h1>
-  <h2>✨A self taught web developer learning to code ✨</h2>
+  <h1>Hi, I'm Aman 👋</h1>
+  <h2>✨Self taught web developer✨</h2>
 </div>
 
 <div>
@@ -11,8 +11,8 @@
   <img src= "https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title= "sass" alt= "sass" width= "30" height= "30">
   <img src= "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title= "javascript" alt= "javascript" width= "30" height= "30">
   <img src= "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title= "react" alt= "react" width= "30" height= "30">
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title= "figma" alt= "figma" width= "30" height= "30">
   <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title= "git" alt= "git" width= "30" height= "30">
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title= "figma" alt= "figma" width= "30" height= "30">
 </div>
 
 <!--
