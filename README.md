@@ -1,6 +1,5 @@
 <div align= "center">
   <h1>Hi, I'm Aman 👋</h1>
-  <h2>✨Self taught web developer✨</h2>
 </div>
 
 <div>
