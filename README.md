@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h3>Languages and tools : </h3>
+  <p>I'm learning to write code and using developers tools</p>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title= "html" alt= "html" width= "30" height= "30">
   <img src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title= "css" alt="css" width= "30" height= "30">
   <img src= "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title= "bootstrap" alt= "bootstrap" width= "30" height= "30">
