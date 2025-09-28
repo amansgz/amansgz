@@ -1,68 +1,56 @@
-# Hello! 👋 I'm Aman
 
-🚀 Frontend Developer from Buenos Aires, Argentina 🇦🇷    
-💡 Passionate about creating beautiful and functional web interfaces    
-🎯 Currently mastering frontend through Frontend Mentor challenges  
-✨ Committed to writing semantic and accessible code 
+### 👩‍💻 Hi! I'm Aman 
 
-## 🛠️ Technologies & Tools
+**Frontend Learner | Challenge Solver | Code Refactorer**
 
-- **Core:** HTML5, CSS3, JavaScript
-- **Tools:** Git, GitHub, VS Code
-- **Currently focusing on:** Semantic HTML, Accessibility, Responsive Design
 
-## 🚀 Learning Journey
 
-After 2 years away from coding, I'm rebuilding my foundation through:
-- ✅ Mastering semantic HTML & accessible markup
-- ✅ Advanced CSS methodologies
-- 🎯 Next: Deep dive into modern JavaScript
-- 🔜 Future: React & Vue refresher
+🌱 Currently Learning Through:
 
-## 💫 My Passion
+· 🎯 Frontend Mentor Challenges - Building real projects  
+· 🔄 Active Refactoring - Making my code cleaner and better  
+· 📚 Semantic HTML & Accessibility - Learning to build for everyone  
+· 🎨 CSS Mastery - From basics to beautiful layouts 
 
-I discovered I truly enjoy **refactoring and optimizing code** - 
-transforming good code into great, maintainable, and efficient solutions. 
-I'm particularly interested in opportunities where I can:
 
-- 🔧 Improve existing codebases
-- ♿ Enhance accessibility and semantics  
-- 🚀 Optimize performance and readability
-- 📚 Document and standardize code practices
 
-## 📂 Current Focus
+### 🛠 My Learning Stack
+![HTML5](https://img.shields.io/badge/HTML5-Semantic%20&%20Accessible-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Layouts%20&%20Design-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning%20Basics-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Frontend Mentor Challenges
-🔗 [My Profile](https://www.frontendmentor.io/profile/amansgz)
-- Building responsive and accessible web components
-- Practicing semantic HTML and CSS best practices
-- Improving my frontend workflow
 
-### Kevin Powell's 21-Day CSS Course
-🎯 Mastering advanced CSS concepts
-- Deep diving into Flexbox and Grid
-- Learning modern layout techniques
-- Improving responsive design skills
 
-💡 **Combining theoretical learning with hands-on practice**  
-*Kevin Powell's course for deep CSS understanding +  
-Frontend Mentor for real-world implementation*
+📂 My Learning Hub
 
-## 🎯 Learning Goals 2025
+🚀 Frontend Challenges Monorepo
+All my solutions, refactors, and learning progress in one place
 
-### ✅ Already Achieved:
-- **27+ Frontend Mentor challenges** completed and continuously refactoring
 
-### 🚀 Current Focus:
-- Mastering CSS Grid and Flexbox
-- Deep diving into JavaScript fundamentals  
-- Building accessible and semantic websites
 
-### 🔜 Next Steps:
-- Contribute to open source projects
-- Expand my portfolio with complex projects
-- **Pursue opportunities in code refactoring and optimization**
+### 📊 Weekly Learning Focus
 
-## 📫 Let's Connect
+Semantic HTML    ████████████████████ 90%
+CSS Layouts      ████████████████████ 85%
+Accessibility    ████████████████████ 88%
+Code Refactoring ████████████████████ 92%
 
-- 👩💻 [Frontend Mentor](https://www.frontendmentor.io/profile/amansgz)
+
+🌟 Learning Badges
+
+https://img.shields.io/badge/🎓-Frontend%20Student-007ACC?style=for-the-badge
+https://img.shields.io/badge/🎯-Challenge%20Solver-00D26A?style=for-the-badge
+https://img.shields.io/badge/🔄-Code%20Refactorer-FF6B35?style=for-the-badge
+https://img.shields.io/badge/♿-Accessibility%20Focus-9146FF?style=for-the-badge
+
+
+
+### 📈 My Coding Journey
+
+This Week:
+✅ Refactored 2 projects for better semantics
+✅ Improved CSS organization and variables
+✅ Added accessibility features
+🎯 Next: JavaScript functionality and responsive design
+
