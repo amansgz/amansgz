@@ -34,10 +34,10 @@
 
 ### 📊 Weekly Learning Focus
 
-Semantic HTML    ████████████████████ 90%
-CSS Layouts      ████████████████████ 85%
-Accessibility    ████████████████████ 88%
-Code Refactoring ████████████████████ 92%
+Semantic HTML    ████████████████████ 90% 
+CSS Layouts      ████████████████████ 85% 
+Accessibility    ████████████████████ 88% 
+Code Refactoring ████████████████████ 92% 
 
 ### 📈 My Coding Journey
 
@@ -46,4 +46,11 @@ This Week:
 ✅ Improved CSS organization and variables
 ✅ Added accessibility features
 🎯 Next: JavaScript functionality and responsive design
+
+
+---
+
+**🎶 Progress over perfection, that's my melody /
+Becoming a frontend dev, that's my destiny /
+Learning, growing / Every single step is part of my story / 🎵**
 
