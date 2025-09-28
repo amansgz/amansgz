@@ -22,12 +22,15 @@
 
 
 
-📂 My Learning Hub
+### 🌟 Learning Badges
+<img src="https://img.shields.io/badge/🎓-Frontend%20Student-007ACC?style=for-the-badge" alt="Frontend Student">
+<img src="https://img.shields.io/badge/🎯-Challenge%20Solver-00D26A?style=for-the-badge" alt="Challenge Solver">  
+<img src="https://img.shields.io/badge/🔄-Code%20Refactorer-FF6B35?style=for-the-badge" alt="Code Refactorer">
+<img src="https://img.shields.io/badge/♿-Accessibility%20Focus-9146FF?style=for-the-badge" alt="Accessibility Focus">
 
-🚀 Frontend Challenges Monorepo
-All my solutions, refactors, and learning progress in one place
-
-
+### 📂 My Learning Hub
+🚀 **[Frontend Challenges Solutions](https://github.com/amansgz/frontend-newbie-solutions)**  
+*All my solutions, refactors, and learning progress in one place*
 
 ### 📊 Weekly Learning Focus
 
@@ -35,16 +38,6 @@ Semantic HTML    ████████████████████ 90
 CSS Layouts      ████████████████████ 85%
 Accessibility    ████████████████████ 88%
 Code Refactoring ████████████████████ 92%
-
-
-🌟 Learning Badges
-
-https://img.shields.io/badge/🎓-Frontend%20Student-007ACC?style=for-the-badge
-https://img.shields.io/badge/🎯-Challenge%20Solver-00D26A?style=for-the-badge
-https://img.shields.io/badge/🔄-Code%20Refactorer-FF6B35?style=for-the-badge
-https://img.shields.io/badge/♿-Accessibility%20Focus-9146FF?style=for-the-badge
-
-
 
 ### 📈 My Coding Journey
 
